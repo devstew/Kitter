@@ -1,0 +1,26 @@
+body{
+    background: linear-gradient(to top, #fdb927,#9861FF) no-repeat;
+    height:100vh;
+    margin: 3.5rem;
+}
+.cat_title{
+    text-align: center;
+    color: #fff;
+}
+
+.cat_form{
+    width: 50%;
+    margin: 0 auto;
+    color: #fff;
+}
+label{
+    color: #fff;
+}
+
+.cat-button-meow{
+    background-color: #552583!important;
+}
+
+.cat-button-meow:hover{
+    background: linear-gradient(to top,#9861FF, #552583) !important;
+}
